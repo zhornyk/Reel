@@ -19,7 +19,7 @@
   ],
   "homepage": "http://reel360.org",
   "dependencies": {
-    "jquery": ">=1.6.2"
+   
   },
   "files": [
     "jquery.reel.js"
