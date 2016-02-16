@@ -1,0 +1,44 @@
+{
+  "name": "jquery.reel",
+  "version": "1.3.0",
+  "title": "jQuery Reel",
+  "description": "`img` tag enhancement for 360° object movies, vistas and panoramas",
+  "author": "Petr Vostřel <petr@vostrel.cz> (http://petr.vostrel.cz)",
+  "license": "MIT",
+  "contributors": [
+    "Katrin Ackermann",
+    "Matthew Smith (http://photospherix.com)",
+    "Tino Hußlack (http://hyperheld.com)"
+  ],
+  "keywords": [
+    "360",
+    "vista",
+    "virtual",
+    "panorama",
+    "projection"
+  ],
+  "homepage": "http://reel360.org",
+  "dependencies": {
+    "jquery": ">=1.6.2",
+    "mousewheel": ">=3.0.5"
+  },
+  "files": [
+    "jquery.reel.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhornyk/Reel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pisi/Reel/issues"
+  },
+  "main": "jquery.reel.js",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
